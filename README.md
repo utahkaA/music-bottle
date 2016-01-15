@@ -1,4 +1,3 @@
-<link href=".css" rel="stylesheet"></link>
 Music Bottle
 ============
 Music Bottle Firmware at OKLAB hard seminar.
